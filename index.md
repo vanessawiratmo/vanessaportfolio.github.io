@@ -2,20 +2,22 @@
 
 ---
 
-### Category Name 1 
+### My creations 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Galexy Cay(/sample_page)
+<img src="images/untitled.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Taylor Swift(/pdf/sample_presentation.pdf)
+<img src="images/Taylor.png?raw=true"/>
 
 ---
+Mother's Day (http://example.com/)
+<img src="images/mothers day poster by vanessa (1).png?raw=true"/>
+
+---
+Dog in a Cone (http://example.com/)
+<img src="images/Photo Mashup Proect by Vanessa.png?raw=true"/>
 
 ### Category Name 2
 
