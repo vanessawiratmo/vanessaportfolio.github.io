@@ -5,7 +5,7 @@
 ### My creations 
 
 Galexy Cay(/sample_page)
-<img src="images/untitled.jpg?raw=true"/>
+<img src="images/Untitled.jpg?raw=true"/>
 
 ---
 Taylor Swift(/pdf/sample_presentation.pdf)
