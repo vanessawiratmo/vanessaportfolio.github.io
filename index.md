@@ -13,6 +13,7 @@ Project 2: Taylor Swift
 
 ---
 Project 3: Mother's Day 
+
 <img src="images/mothers day poster by vanessa (1).png?raw=true"/>
 
 ---
