@@ -19,13 +19,7 @@ Project 3: Mother's Day
 Project 4: Dog in a Cone 
 <img src="images/Photo Mashup Project by Vanessa.png?raw=true"/>
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
