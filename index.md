@@ -4,19 +4,19 @@
 
 ### My creations 
 
-Galexy Cay(/sample_page)
+Project 1: Galexy Cay
 <img src="images/Untitled.jpg?raw=true"/>
 
 ---
-Taylor Swift(/pdf/sample_presentation.pdf)
+Project 2: Taylor Swift
 <img src="images/Taylor.png?raw=true"/>
 
 ---
-Mother's Day (http://example.com/)
+Project 3: Mother's Day 
 <img src="images/mothers day poster by vanessa (1).png?raw=true"/>
 
 ---
-Dog in a Cone (http://example.com/)
+Project 4: Dog in a Cone 
 <img src="images/Photo Mashup Project by Vanessa.png?raw=true"/>
 
 ### Category Name 2
