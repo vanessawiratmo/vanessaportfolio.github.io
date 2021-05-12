@@ -17,7 +17,7 @@ Mother's Day (http://example.com/)
 
 ---
 Dog in a Cone (http://example.com/)
-<img src="images/Photo Mashup Proect by Vanessa.png?raw=true"/>
+<img src="images/Photo Mashup Project by Vanessa.png?raw=true"/>
 
 ### Category Name 2
 
